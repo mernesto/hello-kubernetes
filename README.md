@@ -1,6 +1,9 @@
 # hello-kubernetes
 Example end-to-end build, test, and deploy pipelines for Kubernetes, using Google Cloud Build.
 
+# User Story
+As a developer, I want a simple application that greets users by name, so that I can use it as a base for demonstrating and testing CI/CD pipelines with Kubernetes.
+
 # Instructions
 
 If you are new to Google Cloud Build, we recommend you start by visiting the [manage resources page](https://console.cloud.google.com/cloud-resource-manager) in the Cloud Console, [learn how to enable billing](https://cloud.google.com/billing/docs/how-to/modify-project), [enable the Cloud Build API](https://console.cloud.google.com/flows/enableapi?apiid=cloudbuild.googleapis.com), and [install the Cloud SDK](https://cloud.google.com/sdk/docs/). You may also wish to review the [Quickstart for Go](https://cloud.google.com/cloud-build/docs/quickstart-go).
